@@ -1,4 +1,4 @@
-# Shopify app example: pre-purchase product offer checkout App Template - Remix
+# Shopify app example: add custom block checkout App Template - Remix
 
 This is a template for building a [Shopify app](https://shopify.dev/docs/apps/getting-started) using the [Remix](https://remix.run) framework.
 
